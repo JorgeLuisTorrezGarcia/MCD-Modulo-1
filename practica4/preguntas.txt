@@ -1,0 +1,14 @@
+Integrantes:
+    Kevin Padilla Lopez
+    Oscar Delgadillo Alvarado
+    Jorge Torrez Garcia
+    Clara Olmedo Rodriguez
+    Cristhian Ortiz Mercado
+
+¿Que herramienta usaría?  ¿Una herramienta colaborativa (notebook o Google Collab) o desarrollaría una aplicación Python para ejecutar desde la consola?
+
+R.- Desarrollar una aplicacion python 
+
+¿Por que de la elección?
+
+R.- Porque la aplicacion python permite versatilidad, como la de crear un menu para que el gerente haga sus consultas, ademas se puede implementar documentacion y comentarios para los proximos desarrolladores.
